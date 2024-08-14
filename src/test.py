@@ -1,4 +1,4 @@
 #testing
 
 def add(a, b):
-    pass
+    return a+b
